@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! I am Nandini 👋
 
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with MERN STACK
